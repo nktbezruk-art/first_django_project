@@ -27,6 +27,7 @@ env/
 # Django
 db.sqlite3
 media/
+products/
 django.log
 security.log
 debug.log
@@ -40,3 +41,4 @@ Thumbs.db
 
 # Config
 .pylintrc
+.flake8
